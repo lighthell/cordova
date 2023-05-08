@@ -26,7 +26,7 @@
   },
   "devDependencies": {
     "browser-sync": "^2.24.5",
-    "cordova": "^7.1.0",
+    "cordova": "^11.1.0",
     "cpy-cli": "^1.0.1",
     "vue": "^2.5.16",
     "framework7": "^3.0.0",
